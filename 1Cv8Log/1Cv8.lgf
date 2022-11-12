@@ -25,4 +25,5 @@ bf210446-6653-494a-9254-8c52b1d975a1
 {4,"_$Transaction$_.Commit",11},
 {3,"BackgroundJob",3},
 {4,"_$Data$_.Update",12},
-{4,"_$Data$_.Delete",13}
+{4,"_$Data$_.Delete",13},
+{4,"_$Transaction$_.Rollback",14}

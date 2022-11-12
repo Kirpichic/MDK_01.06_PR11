@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<KontragenList>
+	<Contragent>
+		<NAME>Контрагент1</NAME>
+	</Contragent>
+	<Contragent>
+		<NAME>Контрагент2</NAME>
+	</Contragent>
+	<Contragent>
+		<NAME>Контрагент3</NAME>
+	</Contragent>
+	<Contragent>
+		<NAME>Контрагент4</NAME>
+	</Contragent>
+	<Contragent>
+		<NAME>Контрагент5</NAME>
+	</Contragent>
+</KontragenList>
